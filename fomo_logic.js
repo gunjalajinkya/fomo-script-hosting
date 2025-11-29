@@ -1,7 +1,7 @@
 // --- Configuration ---
 const initialDelay = 5000;      // 5 seconds delay before the first notification
 const displayDuration = 7000;   // 7 seconds display time
-const intervalDelay = 13000;    // 13 seconds between the start of one notification and the next
+const intervalDelay = 3000;    // 13 seconds between the start of one notification and the next
 
 // Data for 100 diverse Indian customer purchases (All "Screen-to-Pencil Shift Bundle" @ ₹197)
 const DUMMY_SALES_DATA = [
